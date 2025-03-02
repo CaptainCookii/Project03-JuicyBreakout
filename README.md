@@ -1,15 +1,16 @@
 # Project03-JuicyBreakout
 
 # Project Name
-Context and date
+3/2/25
 
-Description
+My silly little take on a Juicy Brick Breaker
 
 ## Implementation
-Which features you included
+Some here and there
 
 ## References
 
 ## Future Development
 
 ## Created by
+Evan Lucas
