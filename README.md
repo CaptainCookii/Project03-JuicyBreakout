@@ -4,7 +4,15 @@
 My silly little take on a Juicy Brick Breaker
 
 ## Implementation
-Some here and there
+Paddle flashes blue
+Ball squeezes and stretches
+shake when block breaks
+paddle and dying sound effects
+background music
+brick entrance / leave animations
+ball comet trail
+paddle eyes follow ball
+start and end screen backgrounds / shaders
 
 ## References
 
